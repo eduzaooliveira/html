@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background-color: #5b5f56;
+  }
+  main {
+    width: 400px; /* largura */
+    height: 600px; /* altura */
+    background-color: #ffffff; /* cor de fundo */
+    margin: 0 auto; /* centraliza na horizontal */
+    padding-left: 3%;
+  }
